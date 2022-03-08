@@ -1,0 +1,22 @@
+[
+    {
+        "Product_name": "Nike Huarachi",
+        "Action": "Added to cart",
+        "Time": "January 3rd 2022, 4:38:54 pm"
+    },
+    {
+        "Product_name": "Nike Huarachi",
+        "Action": "Added to cart",
+        "Time": "January 3rd 2022, 4:39:00 pm"
+    },
+    {
+        "Product_name": "Nike Huarachi",
+        "Action": "Removed from cart",
+        "Time": "January 3rd 2022, 4:39:06 pm"
+    },
+    {
+        "Product_name": "Nike Huarachi",
+        "Action": "Removed from cart",
+        "Time": "January 3rd 2022, 4:39:07 pm"
+    }
+]
