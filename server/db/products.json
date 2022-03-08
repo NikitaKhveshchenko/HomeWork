@@ -1,0 +1,57 @@
+[{
+    "id_product": 100,
+    "product_name": "Nike Air",
+    "price": 90,
+    "imgProduct": "./img/products/nike_air.jpg",
+    "imgCart": "./img/products/nike_air.jpg"
+  },
+  {
+    "id_product": 200,
+    "product_name": "Nike Air-Jordan",
+    "price": 150,
+    "imgProduct": "./img/products/nike_air_jordan.jpg",
+    "imgCart": "./img/products/nike_air_jordan.jpg"
+  },
+  {
+    "id_product": 278,
+    "product_name": "Nike Air-Max",
+    "price": 100,
+    "imgProduct": "./img/products/nike_air_max_270.jpg",
+    "imgCart": "./img/products/nike_air_max_270.jpg"
+  },
+  {
+    "id_product": 792,
+    "product_name": "Nike Huarachi",
+    "price": 170,
+    "imgProduct": "./img/products/nike_huarachi.jpg",
+    "imgCart": "./img/products/nike_huarachi.jpg"
+  },
+  {
+    "id_product": 1001,
+    "product_name": "Nike Air",
+    "price": 90,
+    "imgProduct": "./img/products/nike_air.jpg",
+    "imgCart": "./img/products/nike_air.jpg"
+  },
+  {
+    "id_product": 2001,
+    "product_name": "Nike Air-Jordan",
+    "price": 150,
+    "imgProduct": "./img/products/nike_air_jordan.jpg",
+    "imgCart": "./img/products/nike_air_jordan.jpg"
+  },
+  {
+    "id_product": 2782,
+    "product_name": "Nike Air-Max",
+    "price": 100,
+    "imgProduct": "./img/products/nike_air_max_270.jpg",
+    "imgCart": "./img/products/nike_air_max_270.jpg"
+  },
+  {
+    "id_product": 7924,
+    "product_name": "Nike Huarachi",
+    "price": 170,
+    "imgProduct": "./img/products/nike_huarachi.jpg",
+    "imgCart": "./img/products/nike_huarachi.jpg"
+  }
+]
